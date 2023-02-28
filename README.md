@@ -1,3 +1,7 @@
+![alt text][logo]
+
+[logo]: bugtracker_logo.jpg
+
 # BugTracker
 
 Contents
