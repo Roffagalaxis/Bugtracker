@@ -41,10 +41,10 @@ python Bugtracker.py [parameters] [Path to the video to track]
 Example on Windows:\
 python Bugtracker.py C:/Users/YourName/Download/Bugtracker-main/Bugtracker-main/Videos/TestVideo.mp4
 
-After video is started you should wait until the petri dish was lifted up 
-a) Press "F" to stop the video and select the animal with the mouse
-b) Press "Space" and now select the area where the program will draw the squares
-c) Adjust the squares with "W","A","S" and "D" buttons
+After video is started you should wait until the petri dish was lifted up, then:\
+a) Press "F" to stop the video and select the animal with the mouse\
+b) Press "Space" and now select the area where the program will draw the squares\
+c) Adjust the squares with "W","A","S" and "D" buttons\
 
 You can check running the example here:
 
