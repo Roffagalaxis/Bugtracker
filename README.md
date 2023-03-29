@@ -51,11 +51,11 @@ b) Press "Space"
 
 Parameters
 ----------
--r = Rotate the video 90° (default: False)\
+-r = Rotate the video 90° (Default: False)\
 -c = Draw squares (Default: False)\
 -d = Automaticaly detech boundaries (Default: False)\
--p = Don't print the number of reached squares to the output (default: True)\
--w = Don't wait after the video is finished (default: True)
+-p = Don't print the number of reached squares to the output (Default: True)\
+-w = Don't wait after the video is finished (Default: True)
 
 If you added "-c" parameter to create an testarea with squares\
 c) Do A and B step then select the area with mouse\
