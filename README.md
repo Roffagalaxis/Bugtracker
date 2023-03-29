@@ -47,8 +47,20 @@ python Bugtracker.py C:/Users/YourName/Download/Bugtracker-main/Bugtracker-main/
 
 After video is started you should wait until the petri dish was lifted up, then:\
 a) Press "F" to stop the video and select the animal with the mouse\
-b) Press "Space" and now select the area where the program will draw the squares\
-c) Adjust the squares with "W","A","S" and "D" buttons\
+b) Press "Space"
+
+Parameters
+----------
+-r = Rotate the video 90° (default: False)\
+-c = Draw squares (Default: False)\
+-d = Automaticaly detech boundaries (Default: False)\
+-p = Don't print the number of reached squares to the output (default: True)\
+-w = Don't wait after the video is finished (default: True)
+
+If you added "-c" parameter to create an testarea with squares\
+c) Do A and B step then select the area with mouse\
+d) Press "Space"\
+e) Adjust the squares with "W","A","S" and "D" buttons
 
 You can check running the example here:
 
